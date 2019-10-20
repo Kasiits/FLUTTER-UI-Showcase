@@ -3,7 +3,7 @@ FLUTTER UI Showcase
 
 
 # Donate
-Thank you for your support 😊
+Thank you for your support 😎👍
 
 <a href="https://paypal.me/kasiits98?locale.x=en_US">
 <img src="https://i.imgur.com/NEc3uaD.png" alt="Smiley face" height="36" width="100">
