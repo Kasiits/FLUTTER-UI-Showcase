@@ -24,7 +24,7 @@ Thank you for your support 😎👍
 # Free UI Screens
 MUSIC UI             |  
 :-------------------------:|
-<a href="https://paypal.me/kasiits98?locale.x=en_US"> <img src="https://i.imgur.com/65oxRAS.png" height="540" width="260"> </a>   
+<a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/MUSIC"> <img src="https://i.imgur.com/65oxRAS.png" height="540" width="260"> </a>   
 
 BANK UI             |  
 :-------------------------:|
