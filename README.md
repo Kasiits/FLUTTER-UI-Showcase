@@ -40,4 +40,4 @@ HOTEL UI 1 Screen           |  HOTEL UI 2 Screen
 
 ANIMAL SHELTER UI 1 Screen           |  ANIMAL SHELTER UI 2 Screen
 :-------------------------:|:-------------------------:
-<a href="https://paypal.me/kasiits98?locale.x=en_US"> <img src="https://i.imgur.com/89p0fIP.png" height="540" width="260"> </a>  |  <a href="https://paypal.me/kasiits98?locale.x=en_US"> <img src="https://i.imgur.com/6gDiZjs.png" height="540" width="260"> </a>
+<a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/ANIMAL%20SHELTER"> <img src="https://i.imgur.com/89p0fIP.png" height="540" width="260"> </a>  |  <a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/ANIMAL%20SHELTER"> <img src="https://i.imgur.com/6gDiZjs.png" height="540" width="260"> </a>
