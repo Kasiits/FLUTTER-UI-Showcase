@@ -36,7 +36,7 @@ BOOKS UI             |
 
 HOTEL UI 1 Screen           |  HOTEL UI 2 Screen
 :-------------------------:|:-------------------------:
-<a href="https://paypal.me/kasiits98?locale.x=en_US"> <img src="https://i.imgur.com/ljy1tub.jpg" height="540" width="260"> </a>  |  <a href="https://paypal.me/kasiits98?locale.x=en_US"> <img src="https://i.imgur.com/Dnx8HeG.jpg" height="540" width="260"> </a>
+<a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/HOTEL"> <img src="https://i.imgur.com/ljy1tub.jpg" height="540" width="260"> </a>  |  <a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/HOTEL"> <img src="https://i.imgur.com/Dnx8HeG.jpg" height="540" width="260"> </a>
 
 ANIMAL SHELTER UI 1 Screen           |  ANIMAL SHELTER UI 2 Screen
 :-------------------------:|:-------------------------:
