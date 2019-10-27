@@ -20,6 +20,12 @@ Thank you for your support 😎👍
 
 
 
+# Download App
+<a href="https://play.google.com/store/apps/details?id=com.kasiits.flutter_ui_showcase">
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70" width="160">
+</a>
+
+
 
 # Free UI Screens
 MUSIC UI             |  
