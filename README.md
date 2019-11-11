@@ -29,6 +29,10 @@ Thank you for your support 😎👍
 
 
 # FREE UI Screens
+SOCIAL MEDIA/REAL ESTATE UI  1 Screen           |  SOCIAL MEDIA/REAL ESTATE UI 2 Screen           |  SOCIAL MEDIA/REAL ESTATE UI 3 Screen
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/HOTEL"> <img src="https://i.imgur.com/LiOSiBp.jpg" height="540" width="260"> </a>  |  <a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/HOTEL"> <img src="https://i.imgur.com/TAhNPru.png" height="540" width="260"> </a>  |  <a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/HOTEL"> <img src="https://i.imgur.com/Mu1swPv.jpg" height="540" width="260"> </a>
+
 LOGIN UI             |  
 :-------------------------:|
 <a href="https://github.com/Kasiits/FLUTTER-UI-Showcase/tree/master/LOGIN"> <img src="https://i.imgur.com/RIppybm.png" height="540" width="260"> </a>  
