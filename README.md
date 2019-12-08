@@ -28,11 +28,11 @@ Thank you for your support 😎👍
 <a href="http://bit.ly/FlutterUI"> <img src="https://i.imgur.com/oZPjqVL.png" height="540" width="260"> </a>
 
 # Download FLUTTER Packages (Plugins) SHOWCASE App
-<a href="https://play.google.com/store/apps/details?id=com.kasiits.flutter_packages">
+<a href="http://bit.ly/FlutterPlugins">
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70" width="160">
 </a>
 
-<a href="https://play.google.com/store/apps/details?id=com.kasiits.flutter_packages"> <img src="https://i.imgur.com/CUVjRAW.png" height="540" width="260"> </a>
+<a href="http://bit.ly/FlutterPlugins"> <img src="https://i.imgur.com/CUVjRAW.png" height="540" width="260"> </a>
 
 # FREE UI Screens
 SOCIAL MEDIA/REAL ESTATE UI  1 Screen           |  SOCIAL MEDIA/REAL ESTATE UI 2 Screen           |  SOCIAL MEDIA/REAL ESTATE UI 3 Screen
