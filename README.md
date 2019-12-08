@@ -21,11 +21,11 @@ Thank you for your support 😎👍
 
 
 # Download FLUTTER UI SHOWCASE App
-<a href="https://play.google.com/store/apps/details?id=com.kasiits.flutter_ui_showcase">
+<a href="http://bit.ly/FlutterUI">
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70" width="160">
 </a>
 
-<a href="https://play.google.com/store/apps/details?id=com.kasiits.flutter_ui_showcase"> <img src="https://i.imgur.com/oZPjqVL.png" height="540" width="260"> </a>
+<a href="http://bit.ly/FlutterUI"> <img src="https://i.imgur.com/oZPjqVL.png" height="540" width="260"> </a>
 
 # Download FLUTTER Packages (Plugins) SHOWCASE App
 <a href="https://play.google.com/store/apps/details?id=com.kasiits.flutter_packages">
